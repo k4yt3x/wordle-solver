@@ -45,7 +45,9 @@ def solve():
 
         while True:
             try:
-                result = input("Input guess result (word[char],position[int],correct[int]): ")
+                result = input(
+                    "Input guess result (char[CHAR],position[INT],correct[INT]): "
+                )
                 if result == "":
                     for c in guessed_word:
                         for i in includes:
