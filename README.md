@@ -2,6 +2,10 @@
 
 A small script to help me solve Wordle because I'm that lazy.
 
+Warning: I didn't write this to be efficient nor elegant at all, so you'll probably have a hard time with the UI and the untidy code. I just thought I might as well save it to GitHub.
+
+![demo](https://user-images.githubusercontent.com/21986859/153531757-d3081d3a-d8b2-4215-b5aa-4c03dbbfaab1.png)
+
 ## Usages
 
 Clone/download the repo:
