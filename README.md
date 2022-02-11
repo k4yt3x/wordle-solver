@@ -15,6 +15,12 @@ git clone https://github.com/k4yt3x/wordle-solver.git
 cd wordle-solver/src
 ```
 
+Install dependencies:
+
+```shell
+pip3 install -U -r requirements.txt
+```
+
 Launch the script:
 
 ```shell
